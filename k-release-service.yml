@@ -1,6 +1,6 @@
 ---
 - name: Test app
-  types:
-  - development
-  - production
+  image:
+    tags:
+    - awesome
   release_notes: '/release-info/notes.md'
