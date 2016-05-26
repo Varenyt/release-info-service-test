@@ -1,6 +1,7 @@
 ---
 - name: Test app
   image:
+    service: giphy
     tags:
     - awesome
   release_notes: '/release-info/notes.md'
