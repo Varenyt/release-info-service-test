@@ -4,4 +4,4 @@
     service: giphy
     tags:
     - awesome
-  release_notes: /release-info/notes.md
+  releaseNotesPath: /release-info/notes.md
