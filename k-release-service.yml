@@ -35,7 +35,7 @@
   releaseNotes:
     path: /release-info/notes.md
 
-- name: Test app (Test)
+- name: Test app (Default)
   image:
     service: giphy
     tags:
