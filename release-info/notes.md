@@ -1,3 +1,9 @@
+### v0.0.5.7
+
+* Quisque a velit id elit luctus sollicitudin non ut orci.
+* Sed eu elit suscipit, egestas arcu ut, elementum est.
+* Cras et enim sagittis, interdum purus id, volutpat erat.
+
 ### v0.0.5.1
 
 * Lorem ipsum dolor sit amet.
