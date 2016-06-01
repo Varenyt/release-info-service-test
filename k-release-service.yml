@@ -5,7 +5,7 @@
     tags:
     - awesome
   releaseNotes:
-    path: /release-info/notes.md
+    path: /release-info/tmp/notes.md
 
 - name: Test app (Staging)
   image:
@@ -14,7 +14,7 @@
     - funny
     - happy
   releaseNotes:
-    path: /release-info/notes.md
+    path: /release-info/tmp/notes.md
 
 - name: Test app (Development)
   image:
@@ -23,7 +23,7 @@
     - nice
     - cat
   releaseNotes:
-    path: /release-info/notes.md
+    path: /release-info/tmp/notes.md
 
 - name: Test app (Test)
   image:
@@ -33,4 +33,4 @@
     - speed
     - funny
   releaseNotes:
-    path: /release-info/notes.md
+    path: /release-info/tmp/notes.md
