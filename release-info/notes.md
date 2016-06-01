@@ -1,3 +1,10 @@
+### v0.0.5.9
+
+* Sed eu elit suscipit, egestas arcu ut, elementum est.
+* Cras et enim sagittis, interdum purus id, volutpat erat.
+* Maecenas sit amet rhoncus nibh.
+* Suspendisse eu mauris nulla.
+
 ### v0.0.5.7
 
 * Quisque a velit id elit luctus sollicitudin non ut orci.
