@@ -1,3 +1,10 @@
+### v0.0.7
+
+* Sed eu elit suscipit, egestas arcu ut, elementum est.
+* Cras et enim sagittis, interdum purus id, volutpat erat.
+* Maecenas sit amet rhoncus nibh.
+* Suspendisse eu mauris nulla.
+
 ### v0.0.6.2
 
 * Sed eu elit suscipit, egestas arcu ut, elementum est.
@@ -9,7 +16,6 @@
 * Sed eu elit suscipit, egestas arcu ut, elementum est.
 * Maecenas sit amet rhoncus nibh.
 * Suspendisse eu mauris nulla.
-
 
 ### v0.0.5.9
 
