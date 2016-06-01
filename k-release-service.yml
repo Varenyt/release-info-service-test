@@ -34,3 +34,12 @@
     - funny
   releaseNotes:
     path: /release-info/notes.md
+
+- name: Test app (Test)
+  image:
+    service: giphy
+    tags:
+    - movie
+    - happy
+  releaseNotes:
+    path: /release-info/notes.md
