@@ -1,2 +1,36 @@
 ---
-name: Test 3
+- name: Test app (Production)
+  image:
+    service: giphy
+    tags:
+    - awesome
+  releaseNotes:
+    path: /release-info/tmp/notes.md
+
+- name: Test app (Staging)
+  image:
+    service: giphy
+    tags:
+    - funny
+    - happy
+  releaseNotes:
+    path: /release-info/tmp/notes.md
+
+- name: Test app (Development)
+  image:
+    service: giphy
+    tags:
+    - nice
+    - cat
+  releaseNotes:
+    path: /release-info/tmp/notes.md
+
+- name: Test app (Test)
+  image:
+    service: giphy
+    tags:
+    - car
+    - speed
+    - funny
+  releaseNotes:
+    path: /release-info/tmp/notes.md
