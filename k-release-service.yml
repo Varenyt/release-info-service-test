@@ -24,3 +24,13 @@
     - cat
   releaseNotes:
     path: /release-info/notes.md
+
+- name: Test app (Test)
+  image:
+    service: giphy
+    tags:
+    - car
+    - speed
+    - funny
+  releaseNotes:
+    path: /release-info/notes.md
