@@ -1,3 +1,10 @@
+### v0.0.7.3
+
+* Lorem ipsum dolor sit amet.
+* Sed id orci vitae diam posuere pretium non ornare libero.
+* Maecenas sit amet rhoncus nibh.
+* Suspendisse eu mauris nulla.
+
 ### v0.0.7.2
 
 * Lorem ipsum dolor sit amet.
